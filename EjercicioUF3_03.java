@@ -10,11 +10,9 @@ public class EjercicioUF3_03 {
         else{
             System.out.println("Este es el día bueno");
         }
-<<<<<<< HEAD
-	
-=======
+
 	System.out.println("Fin del programa");
->>>>>>> 6bbb942edbe47c2945184f5b5a0331ae6b062d66
+
     }
     
 }
