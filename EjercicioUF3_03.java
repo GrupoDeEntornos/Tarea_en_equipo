@@ -8,8 +8,9 @@ public class EjercicioUF3_03 {
             System.out.println("Hoy va a ser un gran día");
         } 
         else{
-            System.out.println("Hoy va a ser el mejor día del mundo");
+            System.out.println("Buenos días a todos");
         }
+	
     }
     
 }
